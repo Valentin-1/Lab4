@@ -1,3 +1,1 @@
-const router = require("./api/routes/index");
-app.use(express.json())
-app.use('/', router);
+Modificari in ramura Valentin
