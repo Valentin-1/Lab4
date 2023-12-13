@@ -1,0 +1,4 @@
+
+[submodule "MySubmod"]
+	path = MySubmod
+	url = https://github.com/Valentin-1/Lab4.git
